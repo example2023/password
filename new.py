@@ -1,5 +1,5 @@
 import random
-#Hi
+
 s = "+-/*!&$#?=@abcdefghijklnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ1234567890"
 
 len_pas = int(input("Укажите длину пароля  "))
